@@ -50,6 +50,26 @@ Atualmente, minha experiência profissional envolve a integração entre CRM, pr
 
 ## 📊 Projetos em destaque
 
+<p align="center">
+  <a href="https://github.com/Lu1zHenr1qu3/Power-BI">
+    <img src="https://raw.githubusercontent.com/Lu1zHenr1qu3/Power-BI/main/capa.png" alt="Power BI" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Lu1zHenr1qu3/n8n">
+    <img src="https://raw.githubusercontent.com/Lu1zHenr1qu3/n8n/main/capa.png" alt="n8n" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lu1zHenr1qu3/Sistema-Beauty-Sleep">
+    <img src="https://raw.githubusercontent.com/Lu1zHenr1qu3/Sistema-Beauty-Sleep/main/capa.png" alt="Beauty Sleep" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Lu1zHenr1qu3/Google-Analise-Dados-Avancada">
+    <img src="https://raw.githubusercontent.com/Lu1zHenr1qu3/Google-Analise-Dados-Avancada/main/capa.png" alt="Google Advanced Data Analytics" width="48%" />
+  </a>
+</p>
+
 | Projeto | Sobre |
 |---|---|
 | [**Power BI**](https://github.com/Lu1zHenr1qu3/Power-BI) | Dashboards, modelagem, indicadores e visualizações interativas (inclui PNCP Compras Saúde) |
