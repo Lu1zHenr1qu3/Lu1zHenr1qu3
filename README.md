@@ -83,9 +83,3 @@ Estou sempre buscando aprofundar Engenharia de Dados, Analytics, Inteligência A
 
 - LinkedIn: [linkedin.com/in/luizhenriquedataanalytics](https://www.linkedin.com/in/luizhenriquedataanalytics/)
 - GitHub: [github.com/Lu1zHenr1qu3](https://github.com/Lu1zHenr1qu3)
-
----
-
-<p align="center">
-  <em>Transformando dados em conhecimento, processos em soluções e tecnologia em resultados.</em>
-</p>
